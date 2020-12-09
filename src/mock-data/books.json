@@ -1,0 +1,791 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2216,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "cgI7AAAAIAAJ",
+        "etag": "seZq5sae28c",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/cgI7AAAAIAAJ",
+        "volumeInfo": {
+          "title": "Vermont History",
+          "publishedDate": "1901",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCAL:B3506077"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.3.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=cgI7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cgI7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=cgI7AAAAIAAJ&pg=PA6&dq=vt&hl=&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=cgI7AAAAIAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cgI7AAAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=cgI7AAAAIAAJ&rdid=book-cgI7AAAAIAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/Vermont_History.epub?id=cgI7AAAAIAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com/books/download/Vermont_History.pdf?id=cgI7AAAAIAAJ&hl=&output=pdf&sig=ACfU3U1XgqO_UhtWk5cT397HlOZfSaJEvQ&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=cgI7AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Allen, Charles E. .................................................. Burlington, \u003cb\u003eVt\u003c/b\u003e. Allen, Martin \u003cbr\u003e\nFletcher.......................................... Ferrisburgh, \u003cb\u003eVt\u003c/b\u003e. Babbitt, Rev. James H. ..................\u003cbr\u003e\n.................. W. Brattleboro, \u003cb\u003eVt\u003c/b\u003e. Bailey, Horace Ward................................................ \u003cbr\u003e\nNewbury&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "2vNoAgAAQBAJ",
+        "etag": "+D1sqN4MGlo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/2vNoAgAAQBAJ",
+        "volumeInfo": {
+          "title": "The Vermont State Constitution",
+          "authors": [
+            "The late William C. Hill"
+          ],
+          "publisher": "Oxford University Press",
+          "publishedDate": "2011-04-21",
+          "description": "The Vermont State Constitution provides an outstanding constitutional and historical account of the state's governing charter. In addition to an overview of Vermont's constitutional history, it provides an in-depth, section-by-section analysis of the entire constitution, detailing the many significant changes that have been made since its initial drafting. This treatment, along with a table of cases, index, and bibliography provides an unsurpassed reference guide for students, scholars, and practitioners of Vermont's constitution. Previously published by Greenwood, this title has been brought back in to circulation by Oxford University Press with new verve. Re-printed with standardization of content organization in order to facilitate research across the series, this title, as with all titles in the series, is set to join the dynamic revision cycle of The Oxford Commentaries on the State Constitutions of the United States. The Oxford Commentaries on the State Constitutions of the United States is an important series that reflects a renewed international interest in constitutional history and provides expert insight into each of the 50 state constitutions. Each volume in this innovative series contains a historical overview of the state's constitutional development, a section-by-section analysis of its current constitution, and a comprehensive guide to further research. Under the expert editorship of Professor G. Alan Tarr, Director of the Center on State Constitutional Studies at Rutgers University, this series provides essential reference tools for understanding state constitutional law. Books in the series can be purchased individually or as part of a complete set, giving readers unmatched access to these important political documents.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780199877935"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0199877939"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 236,
+          "printType": "BOOK",
+          "categories": [
+            "Law"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.0.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=2vNoAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=2vNoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=2vNoAgAAQBAJ&pg=PA201&dq=vt&hl=&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=2vNoAgAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2vNoAgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 149.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 119.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=2vNoAgAAQBAJ&rdid=book-2vNoAgAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 149990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 119990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/The_Vermont_State_Constitution-sample-pdf.acsm?id=2vNoAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=2vNoAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Wells River, 70 \u003cb\u003eVT\u003c/b\u003e. 308, 40 A.829 (1898), 39 Aldrich, State, v., 122 \u003cb\u003eVT\u003c/b\u003e. 416, 175. \u003cbr\u003e\nA.2d 803 (1961), 85 Alexander v. Barton, 152 \u003cb\u003eVT\u003c/b\u003e. 148, 565 A.2d 1294 (1989), 60 \u003cbr\u003e\nAllen, In re, 82 \u003cb\u003eVT\u003c/b\u003e. 365, 73 A.1078 (1909), 61 American Press Co., Grosjean v.,&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "yaspAQAAMAAJ",
+        "etag": "r9O6qPZwVGQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yaspAQAAMAAJ",
+        "volumeInfo": {
+          "title": "Annual Report of the Bank Commissioner of the State of Vermont",
+          "authors": [
+            "Vermont. Dept. of Banking and Insurance",
+            "Vermont. Insurance Commissioner"
+          ],
+          "publishedDate": "1893",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UIUC:30112106989822"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Banks and banking"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.3.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yaspAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yaspAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=yaspAQAAMAAJ&pg=PA23&dq=vt&hl=&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=yaspAQAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yaspAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=yaspAQAAMAAJ&rdid=book-yaspAQAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Bank_Commissioner_o.epub?id=yaspAQAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com/books/download/Annual_Report_of_the_Bank_Commissioner_o.pdf?id=yaspAQAAMAAJ&hl=&output=pdf&sig=ACfU3U2FK9DiHo6NC27QFXGIjPwXV-_Y8w&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=yaspAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "\u003cb\u003eVermont\u003c/b\u003e. Dept. of Banking and Insurance, \u003cb\u003eVermont\u003c/b\u003e. Insurance Commissioner. \u003cbr\u003e\nNational Life Insurance Company . - Continued . 1,800 00 ... Bakersfield , \u003cb\u003eVt\u003c/b\u003e . , \u003cbr\u003e\nBonds , 455 , September , 1 , 1890-1910 , Essex , \u003cb\u003eVt\u003c/b\u003e . , Bonds , 5s , April 1 , 1898 ."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "LkNVAAAAcAAJ",
+        "etag": "zAaU8mQFsno",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LkNVAAAAcAAJ",
+        "volumeInfo": {
+          "title": "J. Simonis Onomasticum Novi Testamenti et librorum V. T. Apocryphorum, sive tractatus philologicus, quo nomina propria N. T. et librorum Apocryphorum V. T. ex ipsorum originibus et formis explicantur. Accedit Biga dissertationum de Thammuz, Ezech. 8, 14, et de usu Itinerariorum Orientalium",
+          "authors": [
+            "Johann SIMONIS (Professor at Halle.)"
+          ],
+          "publishedDate": "1762",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BL:A0017186015"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LkNVAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LkNVAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=LkNVAAAAcAAJ&pg=PA32&dq=vt&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=LkNVAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LkNVAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=LkNVAAAAcAAJ&rdid=book-LkNVAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/J_Simonis_Onomasticum_Novi_Testamenti_et.epub?id=LkNVAAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com/books/download/J_Simonis_Onomasticum_Novi_Testamenti_et.pdf?id=LkNVAAAAcAAJ&hl=&output=pdf&sig=ACfU3U2ApSNJ_cpHIgYOXpGik5kYuqCtcA&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=LkNVAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Johann SIMONIS (Professor at Halle.) et pro spowy lec . codicem Alexandr . i \u003cbr\u003e\nChron . 27 , 21. habent Adrøm . Fuit nomen Naphtalicae cuiusdam , Tob . I , I. &#39; \u003cbr\u003e\nArxeaww , Hebr . 195Pun migratio magna , h.e. turba migrans magna : ( Onom.\u003cbr\u003e\n\u003cb\u003eV.T.\u003c/b\u003e p ."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "tIVaTXdzdmMC",
+        "etag": "YcE5ki9Vk08",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/tIVaTXdzdmMC",
+        "volumeInfo": {
+          "title": "Surfacewater hydrology and quality at the Pike Hill Superfund site, Corinth, Vermont, October 2004 to December 2005",
+          "publisher": "DIANE Publishing",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1422325881"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781422325889"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=tIVaTXdzdmMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tIVaTXdzdmMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=tIVaTXdzdmMC&pg=PR6&dq=vt&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=tIVaTXdzdmMC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tIVaTXdzdmMC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 14.95,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 14.95,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=tIVaTXdzdmMC&rdid=book-tIVaTXdzdmMC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 14950000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 14950000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=tIVaTXdzdmMC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Map showing sampling site locations and site - identification numbers in the Pike \u003cbr\u003e\nHill , \u003cb\u003eVT\u003c/b\u003e , study area . ..... 3 2-4 . Graphs showing : 2. The relation of daily mean \u003cbr\u003e\nstreamflow to daily mean specific conductance at the three continuously&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vjdSAQAAMAAJ",
+        "etag": "/+ocb+1/5pc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vjdSAQAAMAAJ",
+        "volumeInfo": {
+          "title": "Bulletin - Vermont Agricultural Experiment Station",
+          "authors": [
+            "Vermont Agricultural Experiment Station"
+          ],
+          "publishedDate": "1921",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OSU:32435021890975"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Agriculture"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.4.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vjdSAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vjdSAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=vjdSAQAAMAAJ&pg=RA1-PA17&dq=vt&hl=&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=vjdSAQAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vjdSAQAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=vjdSAQAAMAAJ&rdid=book-vjdSAQAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/Bulletin_Vermont_Agricultural_Experiment.epub?id=vjdSAQAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vjdSAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "CLOVER LEAF MILLING CO . , BUFFALO , N. Y. , Clover Leaf Egg ( 18 ) . E. \u003cbr\u003e\nCROSBY &amp; Co. , BRATTLEBORO , \u003cb\u003eVT\u003c/b\u003e . , Crosby&#39;s Egg ( 16 ) . ALBERT \u003cbr\u003e\nDICKINSON Co. , CHICAGO , ILL . , Globe Chick ( 18 ) . ELMORE MILLING CO . , \u003cbr\u003e\nONEONTA&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "kFZZ_NznvN8C",
+        "etag": "RFAuvtfhngI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/kFZZ_NznvN8C",
+        "volumeInfo": {
+          "title": "Longstreet Highroad Guide to the Vermont Mountains",
+          "authors": [
+            "Rick Strimbeck",
+            "Nancy Bazilchuk"
+          ],
+          "publisher": "Taylor Trade Publishing",
+          "publishedDate": "1999-04-25",
+          "description": "The indispensable guide to the best the Vermont mountains have to offer.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781461708988"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1461708982"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 352,
+          "printType": "BOOK",
+          "categories": [
+            "Travel"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.4.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=kFZZ_NznvN8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=kFZZ_NznvN8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=kFZZ_NznvN8C&pg=PT183&dq=vt&hl=&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=kFZZ_NznvN8C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kFZZ_NznvN8C"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=kFZZ_NznvN8C&rdid=book-kFZZ_NznvN8C&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 17990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 17990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Longstreet_Highroad_Guide_to_the_Vermont-sample-epub.acsm?id=kFZZ_NznvN8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Longstreet_Highroad_Guide_to_the_Vermont-sample-pdf.acsm?id=kFZZ_NznvN8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=kFZZ_NznvN8C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Across \u003cb\u003eVT\u003c/b\u003e 125 in Ripton, the 3-mile (4.8 km) Norske Trail connects the \u003cbr\u003e\nMiddlebury Snow Bowl, a small downhill ski area, to the Rikert Ski Touring \u003cbr\u003e\nCenter. Directions: From the junction of \u003cb\u003eVT\u003c/b\u003e 73 and VT53 in Forest Dale, take \u003cb\u003eVT\u003c/b\u003e \u003cbr\u003e\n73 1.6 miles&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "FzigAAAAMAAJ",
+        "etag": "ti1jLKLKbrY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FzigAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Vermont Medical Monthly",
+          "publishedDate": "1907",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:39015069771783"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.4.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FzigAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FzigAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=FzigAAAAMAAJ&pg=PA197&dq=vt&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=FzigAAAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FzigAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=FzigAAAAMAAJ&rdid=book-FzigAAAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/Vermont_Medical_Monthly.epub?id=FzigAAAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com/books/download/Vermont_Medical_Monthly.pdf?id=FzigAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0ScZujtzN0cbcL8h_-wh1X5CKUpw&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=FzigAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "\u003cb\u003eVermont\u003c/b\u003e medical monthly . he is finally allowed to practice his profession he must \u003cbr\u003e\nneeds be a well trained man . The people A Journal of Review , Reform and \u003cbr\u003e\nProgress in the Medical Sciences . he treats in these first few years are much \u003cbr\u003e\nbetter&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "B6Amw6IuhhAC",
+        "etag": "p5rGpm7ySV8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/B6Amw6IuhhAC",
+        "volumeInfo": {
+          "title": "The View from Vermont",
+          "subtitle": "Tourism and the Making of an American Rural Landscape",
+          "authors": [
+            "Blake A. Harrison"
+          ],
+          "publisher": "UPNE",
+          "publishedDate": "2006",
+          "description": "With its small native population, proximity to major metropolitan areas, and bucolic rural beauty, Vermont was fated to be a tourist mecca, forever associated in the popular imagination with maple syrup, fall colors, and ski bunnies. Tourism, for good and ill, has always been the decisive factor in the conception of rural Vermont. What is surprising, however, is the degree to which we have accepted this notion of rural Vermont as a somehow timeless entity. Blake Harrison's rich and rewarding study instead presents the construction of Vermont's landscape as a complex and ever-changing dynamic informed by progressive, modernist, and reformist thought, competing views of economic expansion, rural and urban prejudice and social exclusion, and (more recently) by land use planning and environmentalism. This broad-based study includes the early history of Vermont tourism, the concomitant abandonment of farms with the rise of the summer home, the creation of an \"unspoiled\" Vermont (from billboards, at least), the impact of Vermont's ski industry on tradition-bound tourism, and later efforts to legislate growth and protect an increasingly static ideal of a rural Vermont. While grounded within a specific Vermont view, Harrison has much to contribute to broader studies of rural places, tourism, and landscapes in American culture. His analysis of how physical landscapes affect and are affected by our imagined landscape, and the insight afforded by his juxtaposition of leisure and labor, will deeply inform our understanding of rural tourist landscapes for years to come. This is a truly interdisciplinary work that will satisfy and challenge historians and geographers alike.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1584655917"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781584655916"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 323,
+          "printType": "BOOK",
+          "categories": [
+            "History"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=B6Amw6IuhhAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=B6Amw6IuhhAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=B6Amw6IuhhAC&pg=PA252&dq=vt&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=B6Amw6IuhhAC&dq=vt&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_View_from_Vermont.html?hl=&id=B6Amw6IuhhAC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=B6Amw6IuhhAC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "( Victor I. Spear ] , “ Brattleboro Institute , ” in Thirteenth \u003cb\u003eVermont\u003c/b\u003e Agricultural \u003cbr\u003e\nReport by the State Board of Agriculture , for the Year 1893 ( Burlington , \u003cb\u003eVt\u003c/b\u003e .: \u003cbr\u003e\nFree Press Association , Printers and Binders , 1893 ) , 56 . 30. “ Testimony of Mr. \u003cbr\u003e\nMilton&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "iDeya20ZH_IC",
+        "etag": "XStwcjOlq7s",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iDeya20ZH_IC",
+        "volumeInfo": {
+          "title": "The Vermont Farm Table Cookbook: 150 Home Grown Recipes from the Green Mountain State",
+          "authors": [
+            "Tracey Medeiros"
+          ],
+          "publisher": "The Countryman Press",
+          "publishedDate": "2013-05-06",
+          "description": "For farm-to-table cooking and dining like you've never seen it, Vermont is the place. Small, independent farms are the lifeblood of Vermont’s agriculture, from the sweetcorn grower to the dairy goat farmer to the cheesemaker whose locally sourced goat milk chevre becomes the heart of a new dish by a chef in Montpelier. While this farm-to-table cycle may be a phenomenon just hitting its stride in the United States, it has long been away of life in Vermont, part of the ethos that Vermonters use to define themselves. As such, Vermont exemplifies a standard of small-scale, community-minded, unadulterated agriculture that has become a national model. When Tracey Medeiros wrote Dishing Up Vermont in 2008, she wanted to showcase the chefs and restaurateurs who were dazzling taste buds with their fresh, whole-food creations. With The Vermont Farm Table Cookbook, Medeiros has traversed the Green Mountain State once again, in search of not only those celebrated chefs but the hard-working farmers who provide them with their fresh and wholesome ingredients as well. Collecting their stories and some 125 of their delicious, rustic-yet-refined, Vermont inspired recipes, Medeiros presents an irresistible gastronomic portrait of this singular state. Classics like Vermont Cheddar Soup and exciting innovations like Ramp Dumplings or Raisin Hell Pie will send you racing to your local farmers’ market in search of the ingredients. And with dishes that shout “only in Vermont,”like Wood-Fired Blueberry Pizza or Beer-Battered Fiddleheads, no matter where you are you’ll want to transform your tried-and-true menus into fresh and flavorful Vermont farm table suppers. Tracey Medeiros is a freelance food writer, food stylist, and recipe developer and tester. She writes a weekly food column for the Essex Reporter and the Colchester Sun and writes the Edible Farm column for Edible Green Mountains Magazine. Medeiros is also the author of Dishing Up Vermont. She lives in Essex Junction, VT.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781581577327"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "158157732X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 224,
+          "printType": "BOOK",
+          "categories": [
+            "Cooking"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.9.11.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=iDeya20ZH_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=iDeya20ZH_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=iDeya20ZH_IC&pg=PA231&dq=vt&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=iDeya20ZH_IC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iDeya20ZH_IC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 19.95,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=iDeya20ZH_IC&rdid=book-iDeya20ZH_IC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 19950000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 9990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/The_Vermont_Farm_Table_Cookbook_150_Home-sample-epub.acsm?id=iDeya20ZH_IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=iDeya20ZH_IC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... 802-457-2599 Web site: www.cloudlandfarm.com Chicken Breast Stuffed with \u003cbr\u003e\nChevre and Sautéed Ramps Served with Pickled Ramps and a Rhubarb \u003cbr\u003e\nGastrique Conant&#39;s Riverside Farm 2258 West Main Street Richmond, \u003cb\u003eVT\u003c/b\u003e 05477 \u003cbr\u003e\nE-mail:&nbsp;..."
+        }
+      }
+    ]
+  }
+  
