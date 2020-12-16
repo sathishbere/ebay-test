@@ -60,6 +60,7 @@ const App = () => {
               placeholder="Search Books"
               value={searchKey}
               onInput={onKeyChange}
+              autoFocus
             />
             <div className="input-group-append">
               <Button onClick={onBookSearch}>Search</Button>
